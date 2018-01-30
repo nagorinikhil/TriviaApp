@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trivia App</string>
+    <string name="welcome">Welcome to Trivia App</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start trivia</string>
+    <string name="correctAnswer">Correct Answers</string>
+    <string name="finish">Finish</string>
+    <string name="triviaready">Trivia Ready</string>
+    <string name="loading">Loading Trivia</string>
+    <string name="key_QuestionList">Question List</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="submit">Submit</string>
+    <string name="yourPerformance">Your Performance</string>
+    <string name="loadingImage">Loading Image</string>
+</resources>
